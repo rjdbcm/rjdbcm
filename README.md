@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjdbcm&langs_count=8&hide=javascript,html,typescript&exclude_repo=BEAGLES,darkflow,dear-github-2.0,contracts&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjdbcm&langs_count=8&hide=javascript,html,typescript&exclude_repo=BEAGLES,darkflow,dear-github-2.0,contracts&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **rjdbcm/rjdbcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
