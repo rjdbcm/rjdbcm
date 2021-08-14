@@ -10,13 +10,13 @@
 <td>
 
 ### Oldest Project?
-  slykernel(2011)
+  [slykernel](https://github.com/rjdbcm/slykernel)(2011)
   
-### Coolest Project?
-  Aspidites & woma
+### Coolest Projects?
+  [Aspidites](https://github.com/rjdbcm/Aspidites) & [woma](https://github.com/rjdbcm/woma)
   
 ### Funnest Project?
-  BEAGLES
+  [BEAGLES](https://github.com/rjdbcm/BEAGLES)
 
 </td>
 </tr>
