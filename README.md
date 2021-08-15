@@ -10,13 +10,13 @@
 <td>
 
 ### Oldest Project?
-  [slykernel](https://github.com/rjdbcm/slykernel)(2011)
+  [slykernel](https://github.com/rjdbcm/slykernel)(2011) An operating system kernel written in Ada.
   
 ### Coolest Projects?
-  [Aspidites](https://github.com/rjdbcm/Aspidites) & [woma](https://github.com/rjdbcm/woma)
-  
+  The programming language [woma](https://github.com/rjdbcm/woma) and it's compiler [Aspidites](https://github.com/rjdbcm/Aspidites).
+
 ### Funnest Project?
-  [BEAGLES](https://github.com/rjdbcm/BEAGLES)
+  [BEAGLES](https://github.com/rjdbcm/BEAGLES) The BEhavioral Annotation and Gesture Learning Suite.
 
 </td>
 </tr>
