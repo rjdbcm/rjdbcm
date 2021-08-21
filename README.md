@@ -4,8 +4,8 @@
 <tr>
 <td>
 
-<img style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjdbcm&langs_count=8&hide=javascript,html,typescript&exclude_repo=BEAGLES,darkflow,dear-github-2.0,contracts&theme=dark">
-
+  <img style="float: center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjdbcm&exclude_repo=BEAGLES,darkflow,dear-github-2.0,contracts&theme=nord">
+  
 </td>
 <td>
 
@@ -17,6 +17,7 @@
 
 ### Funnest Project?
   [BEAGLES](https://github.com/rjdbcm/BEAGLES) The BEhavioral Annotation and Gesture Learning Suite.
+
 
 </td>
 </tr>
