@@ -4,7 +4,7 @@
 <tr>
 <td>
 
-  <img style="float: center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjdbcm&exclude_repo=BEAGLES,darkflow,dear-github-2.0,contracts&theme=nord">
+  <img style="float: center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjdbcm&exclude_repo=BEAGLES,darkflow,dear-github-2.0,contracts&theme=nord&langs_count=10">
   
 </td>
 <td>
