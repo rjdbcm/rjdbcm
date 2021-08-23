@@ -1,27 +1,22 @@
-<table>
-<tr>
-</tr>
-<tr>
-<td>
+# Hi There!
+
+I'm Ross, and this is my Github profile page, thanks for stopping by.
 
   <img style="float: center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjdbcm&exclude_repo=BEAGLES,darkflow,dear-github-2.0,contracts&theme=nord&langs_count=10">
   
-</td>
-<td>
-
 ### Oldest Project?
-  [slykernel](https://github.com/rjdbcm/slykernel)(2011) An operating system kernel written in Ada.
-  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rjdbcm&repo=slykernel&theme=nord)](https://github.com/rjdbcm/slykernel)
+
 ### Coolest Projects?
-  The programming language [woma](https://github.com/rjdbcm/woma) and it's compiler [Aspidites](https://github.com/rjdbcm/Aspidites).
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rjdbcm&repo=Aspidites&theme=nord)](https://github.com/rjdbcm/Aspidites)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rjdbcm&repo=woma&theme=nord)](https://github.com/rjdbcm/woma)
 
 ### Funnest Project?
-  [BEAGLES](https://github.com/rjdbcm/BEAGLES) The BEhavioral Annotation and Gesture Learning Suite.
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rjdbcm&repo=BEAGLES&theme=nord)](https://github.com/rjdbcm/BEAGLES)
 
 
-</td>
-</tr>
-</table>
+[![rjdbcm's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rjdbcm&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **rjdbcm/rjdbcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
