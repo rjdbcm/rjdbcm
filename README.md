@@ -19,6 +19,9 @@ Thanks for stopping by. Here are a couple the projects I'm currently working on.
 </a>
 
 </p>
+
+# More Projects Below
+
 <!--
 **rjdbcm/rjdbcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
