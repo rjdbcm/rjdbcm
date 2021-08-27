@@ -15,7 +15,7 @@ Thanks for stopping by. Here are my favorite programming languages and a couple 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjdbcm&repo=woma&theme=nord" />
 </a>
 
-<a href="https://github.com/rjdbcm/woma">
+<a href="https://github.com/rjdbcm/pygments_woma_lexer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjdbcm&repo=pygments_woma_lexer&theme=nord" />
 </a>
 
