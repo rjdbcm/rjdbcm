@@ -1,6 +1,6 @@
 # Hi There!
-
 Thanks for stopping by. Here are a couple the projects I'm currently working on.
+<p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjdbcm&exclude_repo=BEAGLES,darkflow,dear-github-2.0,contracts&theme=nord&langs_count=10" />
@@ -18,7 +18,7 @@ Thanks for stopping by. Here are a couple the projects I'm currently working on.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjdbcm&repo=pygments_woma_lexer&theme=nord" />
 </a>
 
-
+</p>
 <!--
 **rjdbcm/rjdbcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
