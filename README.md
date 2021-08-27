@@ -1,5 +1,5 @@
 # Hi There!
-Thanks for stopping by. Here are a couple the projects I'm currently working on.
+Thanks for stopping by. Here are my favorite programming languages and a couple of the projects I'm currently working on.
 <p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
