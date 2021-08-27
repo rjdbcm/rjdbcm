@@ -1,9 +1,10 @@
 # Hi There!
 Thanks for stopping by. Here are my favorite programming languages and a couple of the projects I'm currently working on.
+
 <p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjdbcm&exclude_repo=BEAGLES,darkflow,dear-github-2.0,contracts&theme=nord&langs_count=10" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjdbcm&langs_count=10&theme=nord" />
 </a>
 
 <a href="https://github.com/rjdbcm/Aspidites">
