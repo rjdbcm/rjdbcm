@@ -20,8 +20,7 @@ Thanks for stopping by. Here are my favorite programming languages and a couple 
 
 </p>
 
-# More Projects Below
-
+## More Projects Below
 <!--
 **rjdbcm/rjdbcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
