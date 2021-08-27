@@ -14,6 +14,11 @@ Thanks for stopping by. Here are a couple the projects I'm currently working on.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjdbcm&repo=woma&theme=nord" />
 </a>
 
+<a href="https://github.com/rjdbcm/woma">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjdbcm&repo=pygments_woma_lexer&theme=nord" />
+</a>
+
+
 <!--
 **rjdbcm/rjdbcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
