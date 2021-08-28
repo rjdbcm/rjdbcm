@@ -13,4 +13,5 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           template: terminal
+          config_display: columns
           token: ${{ secrets.METRICS_TOKEN }}
