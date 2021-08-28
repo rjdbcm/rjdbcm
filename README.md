@@ -19,7 +19,7 @@ Thanks for stopping by. Here are a couple of the projects I'm currently working 
 
 </p>
 
-<p align="center">
+<p align="left">
   <img align="center" src="https://github.com/rjdbcm/rjdbcm/blob/main/github-metrics.svg" />
 </p>
 
