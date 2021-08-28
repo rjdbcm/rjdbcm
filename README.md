@@ -21,6 +21,10 @@ Thanks for stopping by. Here are my favorite programming languages and a couple 
 
 </p>
 
+## Some More About Me
+
+![Metrics](https://github.com/rjdbcm/rjdbcm/blob/main/github-metrics.svg)
+
 ## More Projects Below
 <!--
 **rjdbcm/rjdbcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
