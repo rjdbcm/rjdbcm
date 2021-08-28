@@ -23,7 +23,9 @@ Thanks for stopping by. Here are my favorite programming languages and a couple 
 
 ## Some More About Me
 
+
 ![Metrics](https://github.com/rjdbcm/rjdbcm/blob/main/github-metrics.svg)
+
 
 ## More Projects Below
 <!--
