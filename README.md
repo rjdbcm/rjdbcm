@@ -1,7 +1,7 @@
 # Hi There!
 Thanks for stopping by. Here are my favorite programming languages and a couple of the projects I'm currently working on.
 
-<p>
+<p align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjdbcm&langs_count=10&theme=nord" />
@@ -19,12 +19,13 @@ Thanks for stopping by. Here are my favorite programming languages and a couple 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjdbcm&repo=pygments_woma_lexer&theme=nord" />
 </a>
 
+  ## Some More About Me
+
 </p>
 
-## Some More About Me
-
-
-![Metrics](https://github.com/rjdbcm/rjdbcm/blob/main/github-metrics.svg)
+<p align="center">
+  <img align="center" src="https://github.com/rjdbcm/rjdbcm/blob/main/github-metrics.svg" />
+</p>
 
 
 ## More Projects Below
