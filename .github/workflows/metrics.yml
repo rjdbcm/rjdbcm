@@ -9,5 +9,5 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          config_display: classic
+          config_display: columns
           token: ${{ secrets.METRICS_TOKEN }}
