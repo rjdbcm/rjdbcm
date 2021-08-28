@@ -12,5 +12,5 @@ jobs:
       # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
-          config_display: large
+          config_display: columns
           token: ${{ secrets.METRICS_TOKEN }}
