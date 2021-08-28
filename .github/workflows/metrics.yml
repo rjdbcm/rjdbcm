@@ -9,5 +9,6 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          config_display: classic
+          config_display: columns
+          plugin_isocalendar: yes
           token: ${{ secrets.METRICS_TOKEN }}
