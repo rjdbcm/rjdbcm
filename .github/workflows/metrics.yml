@@ -12,5 +12,5 @@ jobs:
       # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
+          template: terminal
           token: ${{ secrets.METRICS_TOKEN }}
