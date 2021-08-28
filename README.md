@@ -1,11 +1,7 @@
 # Hi There!
-Thanks for stopping by. Here are my favorite programming languages and a couple of the projects I'm currently working on.
+Thanks for stopping by. Here are a couple of the projects I'm currently working on.
 
-<p align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjdbcm&langs_count=10&theme=nord" />
-</a>
+<p>
 
 <a href="https://github.com/rjdbcm/Aspidites">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjdbcm&repo=Aspidites&theme=nord" />
