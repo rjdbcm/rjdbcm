@@ -1,5 +1,5 @@
 # Hi There!
-Thanks for stopping by. Here are a couple of the projects I'm currently working on.
+Thanks for stopping by. Here are a couple of the projects I'm currently working on followed by some metrics.
 
 <p>
 
