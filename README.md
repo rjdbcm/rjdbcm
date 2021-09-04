@@ -20,7 +20,7 @@ Thanks for stopping by. Here are a couple of the projects I'm currently working 
 </p>
 
 <p align="left">
-  <img align="center" src="https://github.com/rjdbcm/rjdbcm/blob/main/github-metrics.svg" />
+  <img align="center" src="https://raw.githubusercontent.com/rjdbcm/rjdbcm/main/github-metrics.svg" />
 </p>
 
 
