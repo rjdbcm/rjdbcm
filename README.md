@@ -15,7 +15,7 @@ Thanks for stopping by. Here are a couple of the projects I'm currently working 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjdbcm&repo=pygments_woma_lexer&theme=nord" />
 </a>
 
-  ## Some More About Me
+## Some More About Me
 
 </p>
 
