@@ -16,10 +16,7 @@ Thanks for stopping by. Here are a couple of the projects I'm currently working 
 </a>
   
 </p>
-
-<p align="left">
   <img align="center" src="https://raw.githubusercontent.com/rjdbcm/rjdbcm/main/github-metrics.svg" />
-</p>
 
 
 ## More Projects Below
