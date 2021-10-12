@@ -6,11 +6,6 @@ Thanks for stopping by. Here are a couple of the projects I'm currently working 
 <a href="https://github.com/rjdbcm/Aspidites">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjdbcm&repo=Aspidites&theme=nord" />
 </a>
-
-<a href="https://github.com/rjdbcm/woma">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjdbcm&repo=woma&theme=nord" />
-</a>
-
 <a href="https://github.com/rjdbcm/pygments_woma_lexer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjdbcm&repo=pygments_woma_lexer&theme=nord" />
 </a>
