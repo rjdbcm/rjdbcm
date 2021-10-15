@@ -1,20 +1,9 @@
-# Hi There!
-Thanks for stopping by. Here are a couple of the projects I'm currently working on followed by some metrics.
 
-<p>
-
-<a href="https://github.com/rjdbcm/Aspidites">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjdbcm&repo=Aspidites&theme=nord" />
-</a>
-<a href="https://github.com/rjdbcm/pygments_woma_lexer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjdbcm&repo=pygments_woma_lexer&theme=nord" />
-</a>
-  
-</p>
+<p align="center">
   <img align="center" src="https://raw.githubusercontent.com/rjdbcm/rjdbcm/main/github-metrics.svg" />
+</p>
 
-
-## More Projects Below
+## Projects Below
 <!--
 **rjdbcm/rjdbcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
