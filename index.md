@@ -13,6 +13,8 @@
 ## Frameworks
 <p align="center">
   <img src="{{ site.baseurl }}/img/dragonfly-rainbow.png" width="80" />&nbsp;&nbsp;
+  <img src="{{ site.baseurl }}/img/TensorFlowLogo.png" width="80" />&nbsp;&nbsp;
+  <img src="{{ site.baseurl }}/img/Python_and_Qt.png" width="80" />
 </p>
 
 
