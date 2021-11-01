@@ -15,5 +15,6 @@
 ## Tools
 <p float="center">
   <img src="{{ site.baseurl }}/img/cProfile_icon.png" width="80" />
+  <img src="{{ site.baseurl }}/img/spss_logo.png" width="80" />
 </p>
 
