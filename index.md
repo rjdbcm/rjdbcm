@@ -2,7 +2,7 @@
 
 ## Languages
 
-<p float="left">
+<p float="center">
   <img src="{{ site.baseurl }}/img/cython_logo.png" width="80" />
   <img src="{{ site.baseurl }}/img/c_logo.png" width="70" /> 
   <img src="{{ site.baseurl }}/img/python_logo.png" width="60" />
@@ -13,3 +13,7 @@
 ## Frameworks
 
 ## Tools
+<p float="center">
+  <img src="{{ site.baseurl }}/img/cProfile_icon.png" width="80" />
+</p>
+
