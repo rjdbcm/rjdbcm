@@ -1,8 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/rjdbcm#projects-below"><img align="center" src="https://raw.githubusercontent.com/rjdbcm/rjdbcm/main/github-metrics.svg" /></a>
-</p>
-
+</p> 
 ## Projects Below
 
 ### [Woma Programming Language](https://github.com/rjdbcm/woma) (No Longer Active)
