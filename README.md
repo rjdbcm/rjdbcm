@@ -1,8 +1,14 @@
 
 <p align="center">
   <a href="https://github.com/rjdbcm#projects-below"><img align="center" src="https://raw.githubusercontent.com/rjdbcm/rjdbcm/main/github-metrics.svg" /></a>
-</p> 
+</p>
+
 ## Projects Below
+
+### [OZI](https://github.com/rjdbcm/ozi): Python Packaging for Meson (Actively Maintained)
+For years I just wanted packaging to work without my having to reorient myself to current best practices every time.
+This is a solution I have developed to help me package python modules with Meson.
+OZI can also help to synchronize packaging practices across packages using it, helping to reduce maintainance time.
 
 ### [Woma Programming Language](https://github.com/rjdbcm/woma) (No Longer Active)
   
