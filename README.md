@@ -10,6 +10,10 @@ For years I just wanted packaging to work without my having to reorient myself t
 This is a solution I have developed to help me package python modules with Meson.
 OZI can also help to synchronize packaging practices across packages using it, helping to reduce maintainance time.
 
+#### [blastpipe](https://github.com/rjdbcm/blastpipe): OZI's Test Suite
+
+#### [OZI.docs](https://github.com/rjdbcm/blastpipe): OZI's Design Philosophy & Documentation
+
 ### [Woma Programming Language](https://github.com/rjdbcm/woma) (No Longer Active)
   
   When developing C extensions for Python it is common to struggle with debugging. This is especially true of remote builds where you may not even have access to the proper system resources to find the source of a bug. There are tools like Cython that can help to reduce the chances of a encountering an error due to memory violations. These tools, however, are not 100% effective and you can still be left with particularly hard to debug errors. Woma aims to improve this by using contract-based constraints on function parameters and return values. This is combined with syntax that encourages writing and composing short functions. Additionally, runtime error messages are highly informative and Woma only allows procured access to Python internals.
