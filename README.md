@@ -12,7 +12,7 @@ OZI can also help to synchronize packaging practices across packages using it, h
 
 #### [blastpipe](https://github.com/rjdbcm/blastpipe): OZI's Test Suite
 
-#### [OZI.docs](https://github.com/rjdbcm/blastpipe): OZI's Design Philosophy & Documentation
+#### [OZI.docs](https://github.com/rjdbcm/ozi.docs): OZI's Design Philosophy & Documentation
 
 ### [Woma Programming Language](https://github.com/rjdbcm/woma) (No Longer Active)
   
