@@ -1,9 +1,4 @@
-
-<p align="center">
-  <a href="https://github.com/rjdbcm#projects-below"><img align="center" src="https://raw.githubusercontent.com/rjdbcm/rjdbcm/main/github-metrics.svg" /></a>
-</p>
-
-## Projects Below
+## Projects
 
 ### [OZI](https://github.com/rjdbcm/ozi): Python Packaging for Meson (Actively Maintained)
 For years I just wanted packaging to work without my having to reorient myself to current best practices every time.
@@ -29,3 +24,8 @@ OZI can also help to synchronize packaging practices across packages using it, h
 ### [Sly Kernel](https://github.com/rjdbcm/slykernel) (No Longer Active)
 
    In 2008 I took it upon myself to learn the Ada programming language to write an x86 operating system kernel. This was written entirely from scratch, and I was able to learn a great deal about the lowest levels of programming and reading hardware specifications. 
+
+<p align="center">
+  <a href="https://github.com/rjdbcm#projects-below"><img align="center" src="https://raw.githubusercontent.com/rjdbcm/rjdbcm/main/github-metrics.svg" /></a>
+</p>
+
