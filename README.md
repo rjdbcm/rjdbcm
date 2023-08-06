@@ -4,7 +4,7 @@
 
 #### [OZI](https://github.com/rjdbcm/ozi): Python Packaging for Meson (Pre-alpha)
 This is a solution I am actively developing to help me package python modules with Meson.
-OZI can also help to synchronize packaging practices across packages using it, helping to reduce maintainance time.
+OZI can also help to synchronize packaging practices across packages using it, helping to reduce maintenance time.
 
 #### [OZI.docs](https://github.com/rjdbcm/ozi.docs): OZI's Design Philosophy & Documentation (Pre-alpha)
 
