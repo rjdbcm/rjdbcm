@@ -9,6 +9,8 @@ OZI can also help to synchronize packaging practices across packages using it, h
 #### [OZI.docs](https://github.com/rjdbcm/ozi.docs): OZI's Design Philosophy & Documentation (Pre-alpha)
 Host repository for [ozi.rtfd.io](https://ozi.rtfd.io/).
 
+#### [OZIproject.dev](https://github.com/rjdbcm/OZIproject.dev): OZI Homepage
+
 #### [blastpipe](https://github.com/rjdbcm/blastpipe): OZI's Test Suite (Pre-alpha)
 
 ### Not Maintained/Too Weird/Overly Ambitious
