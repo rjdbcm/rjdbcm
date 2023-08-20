@@ -14,6 +14,8 @@ Host repository for [www.oziproject.dev](https://www.oziproject.dev/).
 
 #### [blastpipe](https://github.com/rjdbcm/blastpipe): OZI's Test Suite (Pre-alpha)
 
+#### [APE-reproducible](https://github.com/rjdbcm/APE-reproducible): Fork of Attempto \[Controlled English\] Parsing Engine
+
 ### Not Maintained/Too Weird/Overly Ambitious
 
 #### [BEAGLES](https://github.com/rjdbcm/BEAGLES)
