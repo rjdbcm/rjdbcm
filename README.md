@@ -3,8 +3,7 @@
 ### Actively Maintained
 
 #### [OZI](https://github.com/rjdbcm/ozi): Python Packaging for Meson (Pre-alpha)
-This is a solution I am actively developing to help me package python modules with Meson.
-OZI can also help to synchronize packaging practices across packages using it, helping to reduce maintenance time.
+This is a solution I am actively developing to help me package Python module projects with Meson.
 
 #### [OZI.docs](https://github.com/rjdbcm/ozi.docs): OZI's Design Philosophy & Documentation (Pre-alpha)
 Host repository for [docs.oziproject.dev](https://docs.oziproject.dev/).
@@ -15,6 +14,10 @@ Host repository for [www.oziproject.dev](https://www.oziproject.dev/).
 #### [blastpipe](https://github.com/rjdbcm/blastpipe): OZI's Test Suite (Pre-alpha)
 
 #### [APE-reproducible](https://github.com/rjdbcm/APE-reproducible): Fork of Attempto \[Controlled English\] Parsing Engine
+
+Fork of [APE](https://github.com/Attempto/APE) which is demonstrated at http://attempto.ifi.uzh.ch/ape/.
+Built using [Meson](https://mesonbuild.com) with reproducible builds in mind.
+Builds successfully with [SWI Prolog](https://www.swi-prolog.org/) 9.0.4.
 
 ### Not Maintained/Too Weird/Overly Ambitious
 
