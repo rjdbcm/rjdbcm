@@ -15,9 +15,9 @@ Host repository for [www.oziproject.dev](https://www.oziproject.dev/), the OZI p
 
 #### [APE-reproducible](https://github.com/rjdbcm/APE-reproducible): Fork of Attempto \[Controlled English\] Parsing Engine
 
-Fork of [APE](https://github.com/Attempto/APE) which is demonstrated at http://attempto.ifi.uzh.ch/ape/.
 Modernized build using [Meson](https://mesonbuild.com) with reproducible builds in mind.
 Builds successfully with [SWI Prolog](https://www.swi-prolog.org/) 9.0.4.
+Fork of [APE](https://github.com/Attempto/APE) which is demonstrated at http://attempto.ifi.uzh.ch/ape/.
 
 ### Not Maintained/Too Weird/Overly Ambitious
 
