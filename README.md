@@ -3,7 +3,7 @@
 ### Actively Maintained
 
 #### [OZI](https://github.com/rjdbcm/ozi): Python Packaging for Meson (Pre-alpha)
-This is a solution I am actively developing to help me package Python module projects with Meson.
+This is a solution I am actively developing to help me package Python projects with Meson.
 
 #### [OZI.docs](https://github.com/rjdbcm/ozi.docs): OZI's Design Philosophy & Documentation (Pre-alpha)
 Host repository for [docs.oziproject.dev](https://docs.oziproject.dev/), the OZI documentation subdomain.
