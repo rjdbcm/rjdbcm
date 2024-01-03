@@ -25,7 +25,7 @@ Fork of [APE](https://github.com/Attempto/APE) which is demonstrated at http://a
 
 ## [Sly Kernel](https://github.com/rjdbcm/slykernel)
 
-   In 2008 I took it upon myself to learn the Ada programming language to write an x86 operating system kernel. This was written entirely from scratch, and I was able to learn a great deal about the lowest levels of programming and reading hardware specifications. 
+   In 2008 I took it upon myself to learn the Ada programming language to write an x86 operating system kernel. This was written entirely from scratch and in doing so I was able to learn a great deal about low level programming and reading hardware specifications. 
 
 ## [Woma Programming Language](https://github.com/rjdbcm/woma)
 
