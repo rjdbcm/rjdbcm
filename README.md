@@ -1,15 +1,7 @@
 # Projects(active)
 
-## [OZI](https://github.com/rjdbcm/ozi): Python Packaging for Meson (Pre-alpha)
+## [OZI](https://github.com/OZI-Project): Python Packaging for Meson (Pre-alpha)
 This is a solution I am actively developing to help me package Python projects with Meson.
-
-### [OZI.docs](https://github.com/rjdbcm/ozi.docs): OZI's Design Philosophy & Documentation (Pre-alpha)
-Host repository for [docs.oziproject.dev](https://docs.oziproject.dev/), the OZI documentation subdomain.
-
-### [OZIproject.dev](https://github.com/rjdbcm/OZIproject.dev): OZI Homepage & Maintainer Blog
-Host repository for [www.oziproject.dev](https://www.oziproject.dev/), the OZI project homepage.
-
-### [blastpipe](https://github.com/rjdbcm/blastpipe): OZI's Test Suite (Pre-alpha)
 
 ## [APE-reproducible](https://github.com/rjdbcm/APE-reproducible): Fork of Attempto \[Controlled English\] Parsing Engine
 
