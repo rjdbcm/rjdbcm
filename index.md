@@ -6,8 +6,8 @@ Molecular Biologist, Software Developer, Technical Writer
 
 ### Master of Science - Molecular Biology and Biochemistry
 
-Graduated: 2021
-Alma Mater: University of Missouri - Kansas City
+* Alma Mater: University of Missouri - Kansas City
+* Graduated: 2021
 
 ## Projects
 
