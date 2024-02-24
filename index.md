@@ -1,4 +1,13 @@
-# Eden Rose Duff's Portfolio
+# Eden Rose Duff MSc
+
+Molecular Biologist, Software Developer, Technical Writer
+
+## Education
+
+### Master of Science - Molecular Biology and Biochemistry
+
+Graduated: 2021
+Alma Mater: University of Missouri - Kansas City
 
 ## Projects
 
