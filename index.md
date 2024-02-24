@@ -3,7 +3,7 @@
 ## Projects
 
 <p align="center">
-  <a href="https://oziproject.dev/"></a>
+  <img src="{{ site.baseurl }}/img/ozi_social_logo.png" width="600" />&nbsp;&nbsp;
 </p>
 
 ## Languages
