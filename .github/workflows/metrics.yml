@@ -2,7 +2,7 @@
 name: Metrics
 on:
   # Schedule updates (each hour) 
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 3 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -35,12 +35,3 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_projects: yes
-          plugin_projects_limit: 4
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_wakatime_days: 7
-          plugin_wakatime_limit: 5
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: rjdbcm
