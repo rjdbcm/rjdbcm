@@ -1,6 +1,7 @@
 # Eden Rose Duff's Portfolio
 
 ## Projects
+
 <p align="center">
   <a href="https://oziproject.dev/"></a>
 </p>
