@@ -15,6 +15,11 @@ Molecular Biologist, Software Developer, Technical Writer
   <a href="https://oziproject.dev"><img src="{{ site.baseurl }}/img/ozi_social_logo.png" width="600" /></a>&nbsp;&nbsp;
 </p>
 
+### Libraries
+
+* [TAP-Producer](https://github.com/OZI-Project/TAP-Producer)
+* [TAP-Consumer](https://github.com/OZI-Project/TAP-Consumer)
+
 ## Languages
 
 <p align="center">
